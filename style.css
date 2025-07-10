@@ -13,7 +13,7 @@ body {
   padding: 0 15px;
 }
 
-/* Header */
+
 .header {
   padding: 24px 0;
   border-bottom: 1px solid #ececec;
@@ -73,7 +73,7 @@ body {
   color: #2196f3;
 }
 
-/* Hero Section */
+
 .hero-section {
   background-color: #2f303a;
   text-align: center;
@@ -106,7 +106,7 @@ body {
   background-color: #188ce8;
 }
 
-/* Features Section */
+
 .features-section {
   padding: 94px 0;
 }
@@ -145,7 +145,7 @@ body {
   margin: 0;
 }
 
-/* Team Section */
+
 .team-section {
   background-color: #f5f4fa;
   padding: 94px 0;
@@ -187,7 +187,7 @@ body {
   margin: 0 0 30px;
 }
 
-/* Portfolio Section */
+
 .portfolio-section {
   padding: 94px 0;
 }
@@ -203,7 +203,7 @@ body {
 }
 
 .portfolio-item {
-  flex: 0 1 calc(33.333% - 20px); /* 3 елементи в ряді */
+  flex: 0 1 calc(33.333% - 20px); 
   background-color: #ffffff;
   border: 1px solid #eeeeee;
 }
@@ -228,7 +228,7 @@ body {
   margin: 0 24px 20px;
 }
 
-/* Footer */
+
 .footer {
   background-color: #2f303a;
   padding: 60px 0;

@@ -50,13 +50,6 @@ body {
   color: #f4f4fd;
 }
 
-.logo-img {
-  display: block;
-  max-height: 40px;
-  width: auto;
-  margin-left: 10px;
-}
-
 .nav-list {
   list-style: none;
   margin: 0;

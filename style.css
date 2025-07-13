@@ -46,7 +46,7 @@ body {
   color: #2e2f42;
 }
 
-.logo .logo-part {
+.footer .logo .logo-part {
   color: #f4f4fd;
 }
 
@@ -58,10 +58,10 @@ body {
 }
 
 .nav-list {
-  display: flex;
   list-style: none;
   margin: 0;
   padding: 0;
+  display: flex;
   gap: 40px;
 }
 
@@ -80,10 +80,10 @@ body {
 }
 
 .contact-list {
-  display: flex;
   list-style: none;
   margin: 0;
   padding: 0;
+  display: flex;
   gap: 40px;
 }
 
@@ -98,6 +98,10 @@ body {
 .contact-link:hover,
 .contact-link:focus {
   color: #404bbf;
+}
+
+.address {
+  font-style: normal;
 }
 
 .hero-section {
@@ -150,10 +154,10 @@ body {
 }
 
 .features-list {
-  display: flex;
   list-style: none;
   margin: 0;
   padding: 0;
+  display: flex;
   gap: 24px;
 }
 
@@ -184,10 +188,10 @@ body {
 }
 
 .team-list {
-  display: flex;
   list-style: none;
   margin: 0;
   padding: 0;
+  display: flex;
   gap: 24px;
 }
 
@@ -225,11 +229,11 @@ body {
 }
 
 .portfolio-list {
-  display: flex;
-  flex-wrap: wrap;
   list-style: none;
   margin: 0;
   padding: 0;
+  display: flex;
+  flex-wrap: wrap;
   gap: 24px;
   justify-content: center;
 }
@@ -265,10 +269,6 @@ body {
 .footer {
   background-color: #2e2f42;
   padding: 100px 0;
-}
-
-.footer .logo .logo-part {
-  color: #f4f4fd;
 }
 
 .footer-text {
